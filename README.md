@@ -1,4 +1,7 @@
+                                                Coding Interview Questions     
 # three-number-sum
+
+Difficulty: medium
 
   Write a function that takes in a non-empty array of distinct integers and an
   integer representing a target sum. The function should find all triplets in
